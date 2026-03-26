@@ -34,9 +34,6 @@ This project builds a complete data pipeline that:
 
 ---
 
-
----
-
 ## ⚙️ Tech Stack
 
 - **Data Platform**: Bruin
