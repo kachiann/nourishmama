@@ -83,7 +83,7 @@ This project builds a complete data pipeline that:
 
 ## 📸 Dashboard Preview
 
-_Add screenshots here_
+![Dashboard](image_1.png)
 
 ---
 
