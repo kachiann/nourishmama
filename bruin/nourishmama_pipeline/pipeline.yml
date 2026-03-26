@@ -1,0 +1,6 @@
+name: bruin-duckdb
+schedule: daily
+start_date: "2026-03-25"
+
+default_connections:
+  duckdb: "duckdb_local"

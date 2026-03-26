@@ -1,0 +1,14 @@
+food_id,food_name,category,nutrient,value_per_100g,unit,target_group,is_baby_friendly,min_age_months,max_age_months,texture_stage
+1,Oats,Grains,Iron,4.3,mg,both,TRUE,6,11,soft
+2,Spinach,Vegetables,Iron,2.7,mg,both,TRUE,8,11,mashed
+3,Lentils,Legumes,Protein,9.0,g,both,TRUE,6,11,soft
+4,Greek Yogurt,Dairy,Calcium,110,mg,both,TRUE,6,11,smooth
+5,Salmon,Fish,Protein,20.4,g,both,TRUE,8,11,flaked
+6,Broccoli,Vegetables,Vitamin C,89.2,mg,both,TRUE,6,11,soft
+7,Almonds,Nuts,Magnesium,270,mg,mother,FALSE,12,99,not_safe_whole
+8,Egg,Eggs,Protein,13.0,g,both,TRUE,6,11,mashed
+9,Chickpeas,Legumes,Folate,172,mcg,both,TRUE,8,11,mashed
+10,Sardines,Fish,Calcium,382,mg,both,TRUE,9,11,flaked
+11,Coffee,Beverages,Magnesium,7,mg,mother,FALSE,12,99,not_for_babies
+12,Tuna Salad,Fish,Protein,25.0,g,mother,FALSE,12,99,adult_texture
+13,Whole Almonds,Nuts,Protein,21.0,g,mother,FALSE,12,99,choking_risk
