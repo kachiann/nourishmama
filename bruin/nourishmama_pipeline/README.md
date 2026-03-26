@@ -89,7 +89,8 @@ This project builds a complete data pipeline that:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/kachiann/bruin.git
+git clone https://github.com/kachiann/nourishmama.git
+cd bruin
 cd nourishmama_pipeline
 ```
 
