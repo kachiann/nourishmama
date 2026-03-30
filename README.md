@@ -38,11 +38,32 @@ This project builds a complete data pipeline that:
 ## ⚙️ Tech Stack
 
 - **Data Platform**: Bruin
+- **Cloud**: GCP
+- **Infrastructure as Code**: Terraform
+- **Data Lake**: Google Cloud Storage (GCS)
+- **Data Warehouse**: BigQuery
 - **Data Warehouse**: DuckDB
-- **Transformation**: SQL (Bruin assets)
+- **Transformations**: SQL + Python (Bruin assets)
 - **Orchestration**: Bruin pipeline DAG
 - **Dashboard**: Streamlit
-- **Language**: Python
+
+---
+
+## ☁️ Cloud Architecture
+
+NourishMama includes a cloud pipeline built on GCP.
+
+- **Terraform** provisions the cloud infrastructure: a **GCS bucket** for raw data storage and **BigQuery datasets** for analytics layers
+- **Bruin** orchestrates ingestion and transformations across the pipeline
+- **Streamlit** reads analytics-ready tables from **BigQuery** to power the dashboard
+
+### Cloud flow
+
+USDA FoodData Central / curated nutrition data  
+→ GCS raw zone  
+→ BigQuery raw tables  
+→ BigQuery staging / marts / reports  
+→ Streamlit dashboard
 
 ---
 
