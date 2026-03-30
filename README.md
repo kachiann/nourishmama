@@ -1,7 +1,11 @@
 Project files are located in `bruin/nourishmama_pipeline`.
-
 # 🌱 NourishMama
 
+<<<<<<< HEAD
+# 🌱 NourishMama
+
+=======
+>>>>>>> c74fdf8f6679a252857bcf778ff5a8e9f7caa77b
 **Nutrition insights for first-time mums and baby-friendly foods under 1 year**
 
 NourishMama is an end-to-end data pipeline built with **Bruin** that delivers actionable nutrition insights for **nursing mothers** and **babies under 1 year**.
@@ -82,9 +86,15 @@ This project builds a complete data pipeline that:
 
 ## 📸 Dashboard Preview
 
+<<<<<<< HEAD
 ![Dashboard](bruin/nourishmama_pipeline/image_1.png)
 ![Dashboard](bruin/nourishmama_pipeline/image_2.png)
 ![Dashboard](bruin/nourishmama_pipeline/image_3.png)
+=======
+![Dashboard](image_1.png)
+![Dashboard](image_2.png)
+![Dashboard](image_3.png)
+>>>>>>> c74fdf8f6679a252857bcf778ff5a8e9f7caa77b
 
 ---
 
