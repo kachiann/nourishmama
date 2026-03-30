@@ -92,8 +92,7 @@ This project builds a complete data pipeline that:
 
 ```bash
 git clone https://github.com/kachiann/nourishmama.git
-cd bruin
-cd nourishmama_pipeline
+cd nourishmama/bruin
 ```
 
 ### 2. Run the pipeline
@@ -103,6 +102,12 @@ bruin run nourishmama_pipeline
 
 ### 3. Launch the dashboard
 ```bash
-cd nourishmama_pipeline
-streamlit run app.py
+bruin run nourishmama_pipeline
+```
+
+## Cloud Quickstart
+```bash
+cd nourishmama/bruin
+bruin run nourishmama_gcp
+streamlit run nourishmama_gcp/app.py
 ```
