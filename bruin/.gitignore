@@ -3,3 +3,10 @@ logs/runs
 logs/*.log
 __pycache__/
 *.py[cod]
+
+# Terraform
+infra/.terraform/
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
