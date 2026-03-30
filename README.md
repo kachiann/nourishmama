@@ -80,16 +80,9 @@ This project builds a complete data pipeline that:
 ---
 
 ## 📸 Dashboard Preview
-
-<<<<<<< HEAD
 ![Dashboard](bruin/nourishmama_pipeline/image_1.png)
 ![Dashboard](bruin/nourishmama_pipeline/image_2.png)
 ![Dashboard](bruin/nourishmama_pipeline/image_3.png)
-=======
-![Dashboard](image_1.png)
-![Dashboard](image_2.png)
-![Dashboard](image_3.png)
->>>>>>> c74fdf8f6679a252857bcf778ff5a8e9f7caa77b
 
 ---
 
