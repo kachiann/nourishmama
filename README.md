@@ -1,11 +1,6 @@
-Project files are located in `bruin/nourishmama_pipeline`.
+Project files are located in `bruin/nourishmama_pipeline` and `bruin/nourishmama_gcp`.
 # 🌱 NourishMama
 
-<<<<<<< HEAD
-# 🌱 NourishMama
-
-=======
->>>>>>> c74fdf8f6679a252857bcf778ff5a8e9f7caa77b
 **Nutrition insights for first-time mums and baby-friendly foods under 1 year**
 
 NourishMama is an end-to-end data pipeline built with **Bruin** that delivers actionable nutrition insights for **nursing mothers** and **babies under 1 year**.
