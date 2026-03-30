@@ -123,7 +123,7 @@ bruin run nourishmama_pipeline
 
 ### 3. Launch the dashboard
 ```bash
-bruin run nourishmama_pipeline
+streamlit run nourishmama_pipeline/app.py
 ```
 
 ## Cloud Quickstart
