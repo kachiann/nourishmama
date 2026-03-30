@@ -3,3 +3,5 @@ logs/runs
 logs/*.log
 __pycache__/
 *.py[cod].DS_Store
+
+*.py[cod]

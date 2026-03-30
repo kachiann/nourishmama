@@ -1,0 +1,116 @@
+food_id,food_name,category,nutrient,value_per_100g,unit,target_group,is_baby_friendly,min_age_months,max_age_months,texture_stage
+1,Oats,Grains,Iron,4.3,mg,both,True,6,11,soft
+1,Oats,Grains,Protein,13.2,g,both,True,6,11,soft
+1,Oats,Grains,Magnesium,138.0,mg,both,True,6,11,soft
+1,Oats,Grains,Zinc,3.6,mg,both,True,6,11,soft
+1,Oats,Grains,Folate,56.0,mcg,both,True,6,11,soft
+2,Brown Rice,Grains,Iron,0.8,mg,both,True,6,11,soft
+2,Brown Rice,Grains,Protein,2.6,g,both,True,6,11,soft
+2,Brown Rice,Grains,Magnesium,44.0,mg,both,True,6,11,soft
+2,Brown Rice,Grains,Zinc,0.6,mg,both,True,6,11,soft
+3,Quinoa,Grains,Iron,1.5,mg,both,True,6,11,soft
+3,Quinoa,Grains,Protein,4.4,g,both,True,6,11,soft
+3,Quinoa,Grains,Magnesium,64.0,mg,both,True,6,11,soft
+3,Quinoa,Grains,Folate,42.0,mcg,both,True,6,11,soft
+3,Quinoa,Grains,Zinc,1.1,mg,both,True,6,11,soft
+4,Whole Wheat Pasta,Grains,Iron,1.3,mg,both,True,8,11,soft
+4,Whole Wheat Pasta,Grains,Protein,5.0,g,both,True,8,11,soft
+4,Whole Wheat Pasta,Grains,Magnesium,43.0,mg,both,True,8,11,soft
+4,Whole Wheat Pasta,Grains,Zinc,0.9,mg,both,True,8,11,soft
+5,Lentils,Legumes,Protein,9.0,g,both,True,6,11,soft
+5,Lentils,Legumes,Iron,3.3,mg,both,True,6,11,soft
+5,Lentils,Legumes,Folate,181.0,mcg,both,True,6,11,soft
+5,Lentils,Legumes,Magnesium,36.0,mg,both,True,6,11,soft
+5,Lentils,Legumes,Zinc,1.3,mg,both,True,6,11,soft
+6,Chickpeas,Legumes,Protein,8.9,g,both,True,8,11,mashed
+6,Chickpeas,Legumes,Iron,2.9,mg,both,True,8,11,mashed
+6,Chickpeas,Legumes,Folate,172.0,mcg,both,True,8,11,mashed
+6,Chickpeas,Legumes,Magnesium,48.0,mg,both,True,8,11,mashed
+6,Chickpeas,Legumes,Zinc,1.5,mg,both,True,8,11,mashed
+7,Kidney Beans,Legumes,Protein,8.7,g,mother,False,12,99,adult_texture
+7,Kidney Beans,Legumes,Iron,2.9,mg,mother,False,12,99,adult_texture
+7,Kidney Beans,Legumes,Folate,130.0,mcg,mother,False,12,99,adult_texture
+7,Kidney Beans,Legumes,Magnesium,45.0,mg,mother,False,12,99,adult_texture
+8,Greek Yogurt,Dairy,Calcium,110.0,mg,both,True,6,11,smooth
+8,Greek Yogurt,Dairy,Protein,10.0,g,both,True,6,11,smooth
+8,Greek Yogurt,Dairy,Zinc,0.5,mg,both,True,6,11,smooth
+9,Plain Yogurt,Dairy,Calcium,121.0,mg,both,True,6,11,smooth
+9,Plain Yogurt,Dairy,Protein,3.5,g,both,True,6,11,smooth
+9,Plain Yogurt,Dairy,Zinc,0.6,mg,both,True,6,11,smooth
+10,Cottage Cheese,Dairy,Calcium,83.0,mg,mother,False,12,99,adult_texture
+10,Cottage Cheese,Dairy,Protein,11.0,g,mother,False,12,99,adult_texture
+10,Cottage Cheese,Dairy,Zinc,0.4,mg,mother,False,12,99,adult_texture
+11,Cheddar Cheese,Dairy,Calcium,721.0,mg,mother,False,12,99,adult_texture
+11,Cheddar Cheese,Dairy,Protein,25.0,g,mother,False,12,99,adult_texture
+11,Cheddar Cheese,Dairy,Zinc,3.1,mg,mother,False,12,99,adult_texture
+12,Salmon,Fish,Protein,20.4,g,both,True,8,11,flaked
+12,Salmon,Fish,Omega-3,2.3,g,both,True,8,11,flaked
+12,Salmon,Fish,Zinc,0.6,mg,both,True,8,11,flaked
+12,Salmon,Fish,Vitamin D,10.0,mcg,both,True,8,11,flaked
+13,Sardines,Fish,Calcium,382.0,mg,both,True,9,11,flaked
+13,Sardines,Fish,Protein,24.6,g,both,True,9,11,flaked
+13,Sardines,Fish,Omega-3,1.5,g,both,True,9,11,flaked
+13,Sardines,Fish,Vitamin D,4.8,mcg,both,True,9,11,flaked
+14,Mackerel,Fish,Protein,19.0,g,mother,False,12,99,adult_texture
+14,Mackerel,Fish,Omega-3,2.6,g,mother,False,12,99,adult_texture
+14,Mackerel,Fish,Vitamin D,13.8,mcg,mother,False,12,99,adult_texture
+15,Egg,Eggs,Protein,13.0,g,both,True,6,11,mashed
+15,Egg,Eggs,Iron,1.8,mg,both,True,6,11,mashed
+15,Egg,Eggs,Zinc,1.3,mg,both,True,6,11,mashed
+15,Egg,Eggs,Vitamin D,2.2,mcg,both,True,6,11,mashed
+16,Chicken,Meat & Poultry,Protein,27.0,g,mother,False,12,99,adult_texture
+16,Chicken,Meat & Poultry,Zinc,1.0,mg,mother,False,12,99,adult_texture
+16,Chicken,Meat & Poultry,Iron,1.0,mg,mother,False,12,99,adult_texture
+17,Beef,Meat & Poultry,Protein,26.0,g,mother,False,12,99,adult_texture
+17,Beef,Meat & Poultry,Iron,2.6,mg,mother,False,12,99,adult_texture
+17,Beef,Meat & Poultry,Zinc,4.8,mg,mother,False,12,99,adult_texture
+18,Avocado,Healthy Fats,Folate,81.0,mcg,both,True,6,11,mashed
+18,Avocado,Healthy Fats,Magnesium,29.0,mg,both,True,6,11,mashed
+18,Avocado,Healthy Fats,Vitamin C,10.0,mg,both,True,6,11,mashed
+19,Olive Oil,Healthy Fats,Omega-3,0.1,g,mother,False,12,99,not_applicable
+20,Peanut Butter,Healthy Fats,Protein,25.0,g,mother,False,12,99,adult_texture
+20,Peanut Butter,Healthy Fats,Magnesium,154.0,mg,mother,False,12,99,adult_texture
+20,Peanut Butter,Healthy Fats,Zinc,3.3,mg,mother,False,12,99,adult_texture
+21,Spinach,Vegetables,Iron,2.7,mg,both,True,8,11,mashed
+21,Spinach,Vegetables,Folate,146.0,mcg,both,True,8,11,mashed
+21,Spinach,Vegetables,Magnesium,79.0,mg,both,True,8,11,mashed
+21,Spinach,Vegetables,Vitamin C,28.0,mg,both,True,8,11,mashed
+22,Broccoli,Vegetables,Vitamin C,89.2,mg,both,True,6,11,soft
+22,Broccoli,Vegetables,Folate,63.0,mcg,both,True,6,11,soft
+22,Broccoli,Vegetables,Calcium,47.0,mg,both,True,6,11,soft
+23,Sweet Potato,Vegetables,Vitamin C,2.4,mg,both,True,6,11,mashed
+23,Sweet Potato,Vegetables,Magnesium,25.0,mg,both,True,6,11,mashed
+24,Carrot,Vegetables,Vitamin C,5.9,mg,both,True,6,11,soft
+24,Carrot,Vegetables,Folate,19.0,mcg,both,True,6,11,soft
+25,Kale,Vegetables,Calcium,150.0,mg,mother,False,12,99,adult_texture
+25,Kale,Vegetables,Vitamin C,93.0,mg,mother,False,12,99,adult_texture
+25,Kale,Vegetables,Iron,1.5,mg,mother,False,12,99,adult_texture
+26,Banana,Fruits,Magnesium,27.0,mg,both,True,6,11,mashed
+26,Banana,Fruits,Vitamin C,8.7,mg,both,True,6,11,mashed
+27,Blueberries,Fruits,Vitamin C,9.7,mg,both,True,8,11,mashed
+28,Orange,Fruits,Vitamin C,53.2,mg,mother,False,12,99,adult_texture
+28,Orange,Fruits,Folate,30.0,mcg,mother,False,12,99,adult_texture
+29,Mango,Fruits,Vitamin C,36.4,mg,both,True,8,11,smooth
+29,Mango,Fruits,Folate,43.0,mcg,both,True,8,11,smooth
+30,Apple,Fruits,Vitamin C,4.6,mg,both,True,6,11,smooth
+31,Almonds,Nuts & Seeds,Magnesium,270.0,mg,mother,False,12,99,choking_risk
+31,Almonds,Nuts & Seeds,Calcium,269.0,mg,mother,False,12,99,choking_risk
+31,Almonds,Nuts & Seeds,Protein,21.0,g,mother,False,12,99,choking_risk
+31,Almonds,Nuts & Seeds,Zinc,3.1,mg,mother,False,12,99,choking_risk
+32,Chia Seeds,Nuts & Seeds,Calcium,631.0,mg,mother,False,12,99,adult_texture
+32,Chia Seeds,Nuts & Seeds,Omega-3,17.8,g,mother,False,12,99,adult_texture
+32,Chia Seeds,Nuts & Seeds,Protein,16.5,g,mother,False,12,99,adult_texture
+32,Chia Seeds,Nuts & Seeds,Magnesium,335.0,mg,mother,False,12,99,adult_texture
+33,Pumpkin Seeds,Nuts & Seeds,Iron,8.8,mg,mother,False,12,99,choking_risk
+33,Pumpkin Seeds,Nuts & Seeds,Magnesium,262.0,mg,mother,False,12,99,choking_risk
+33,Pumpkin Seeds,Nuts & Seeds,Zinc,7.8,mg,mother,False,12,99,choking_risk
+33,Pumpkin Seeds,Nuts & Seeds,Protein,19.0,g,mother,False,12,99,choking_risk
+34,Tofu,Plant Protein,Calcium,350.0,mg,mother,False,12,99,adult_texture
+34,Tofu,Plant Protein,Protein,8.0,g,mother,False,12,99,adult_texture
+34,Tofu,Plant Protein,Iron,5.4,mg,mother,False,12,99,adult_texture
+35,Tempeh,Plant Protein,Protein,20.0,g,mother,False,12,99,adult_texture
+35,Tempeh,Plant Protein,Iron,2.7,mg,mother,False,12,99,adult_texture
+35,Tempeh,Plant Protein,Magnesium,81.0,mg,mother,False,12,99,adult_texture
+36,Hummus,Plant Protein,Protein,7.9,g,both,True,8,11,smooth
+36,Hummus,Plant Protein,Iron,2.4,mg,both,True,8,11,smooth
+36,Hummus,Plant Protein,Folate,59.0,mcg,both,True,8,11,smooth
