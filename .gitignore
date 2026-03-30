@@ -17,3 +17,5 @@ infra/.terraform.lock.hcl
 infra/terraform.tfstate
 infra/terraform.tfstate.*
 infra/terraform.tfvars
+
+*.py[cod]
