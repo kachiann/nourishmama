@@ -113,11 +113,22 @@ USDA FoodData Central / curated nutrition data
 
 ```bash
 git clone https://github.com/kachiann/nourishmama.git
-cd nourishmama/bruin
+cd nourishmama
+```
+### 2. Create a virtual environment
+```bash 
+python -m venv .venv
+source .venv/bin/activate   # Mac/Linux
 ```
 
-### 2. Run the pipeline
+### 3. Install Python dependencies
 ```bash
+  pip install -r bruin/nourishmama_gcp/requirements.txt
+```
+
+### 4. Run the pipeline
+```bash
+cd bruin
 bruin run nourishmama_pipeline
 ```
 
@@ -126,7 +137,12 @@ bruin run nourishmama_pipeline
 streamlit run nourishmama_pipeline/app.py
 ```
 
-## Cloud Quickstart
+## Cloud Quickstart: Run Cloud Pipeline (BigQuery + GCS)
+Make sure you are authenticated:
+```bash
+gcloud auth application-default login
+```
+
 ```bash
 cd nourishmama/bruin
 bruin run nourishmama_gcp
