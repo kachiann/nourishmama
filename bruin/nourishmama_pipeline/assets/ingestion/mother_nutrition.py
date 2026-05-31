@@ -14,7 +14,7 @@ import pandas as pd
 def materialize():
     csv_path = Path(__file__).with_name("mother_nutrition.csv")
     df = pd.read_csv(csv_path)
-
+    print("ROWS LOADED:", len(df))
     df["food_id"] = df["food_id"].astype(int)
     df["food_name"] = df["food_name"].astype(str)
     df["category"] = df["category"].astype(str)

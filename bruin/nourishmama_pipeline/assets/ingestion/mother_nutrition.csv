@@ -9,8 +9,8 @@ food_id,food_name,category,nutrient,value_per_100g,unit,target_group,is_baby_fri
 8,Egg,Eggs,Protein,13.0,g,both,TRUE,6,11,mashed
 9,Chickpeas,Legumes,Folate,172,mcg,both,TRUE,8,11,mashed
 10,Sardines,Fish,Calcium,382,mg,both,TRUE,9,11,flaked
-11,Coffee,Beverages,Magnesium,7,mg,mother,FALSE,12,99,not_for_babies
-12,Tuna Salad,Fish,Protein,25.0,g,mother,FALSE,12,99,adult_texture
+11,Coffee,Beverages,Caffeine,80,mg,mother,FALSE,12,99,not_for_babies
+12,Tuna,Fish,Protein,25.0,g,mother,FALSE,12,99,adult_texture
 13,Whole Almonds,Nuts,Protein,21.0,g,mother,FALSE,12,99,choking_risk
 14,Sweet Potato,Vegetables,Vitamin A,709,mcg,both,TRUE,6,11,mashed
 15,Banana,Fruits,Potassium,358,mg,both,TRUE,6,11,soft
@@ -41,9 +41,9 @@ food_id,food_name,category,nutrient,value_per_100g,unit,target_group,is_baby_fri
 40,Cod,Fish,Protein,18.0,g,both,TRUE,8,11,flaked
 41,Turkey,Meat,Protein,29.0,g,both,TRUE,6,11,shredded
 42,Lamb,Meat,Iron,1.6,mg,both,TRUE,8,11,minced
-43,Plain Oat Cereal,Grains,Iron,5.0,mg,both,TRUE,6,11,smooth
-44,Plain Milk,Dairy,Calcium,120,mg,both,TRUE,9,11,sipped_small_amounts
-45,Plain Kefir,Dairy,Probiotics,10.0,mg,both,TRUE,9,11,smooth
+43,Oat Cereal,Grains,Iron,5.0,mg,both,TRUE,6,11,smooth
+44,Milk,Dairy,Calcium,120,mg,both,TRUE,9,11,sipped_small_amounts
+45,Kefir,Dairy,Probiotics,10.0,mg,both,TRUE,9,11,smooth
 46,Red Bell Pepper,Vegetables,Vitamin C,127.7,mg,both,TRUE,6,11,soft
 47,Pumpkin,Vegetables,Vitamin A,8513,mcg,both,TRUE,6,11,mashed
 48,Apricot,Fruits,Vitamin A,96,mcg,both,TRUE,6,11,pureed
