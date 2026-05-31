@@ -129,9 +129,10 @@ source .venv/bin/activate   # Mac/Linux
 ```
 
 ### 4. Install Bruin CLI
-```
-bash
+```bash
 curl -LsSf https://getbruin.com/install/cli | sh
+```
+```bash
 export PATH="$HOME/.local/bin:$PATH"
 bruin --version
 ```
