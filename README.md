@@ -125,8 +125,14 @@ source .venv/bin/activate   # Mac/Linux
 ```bash
   pip install -r bruin/nourishmama_pipeline/requirements.txt
 ```
-
-### 4. Run the pipeline
+### 4. Create Bruin connection
+``` bruin connections add \
+  --environment default \
+  --name duckdb_local \
+  --type duckdb \
+  --credentials '{"path":"./nourishmama.duckdb"}'
+```
+### 5. Run the pipeline
 ```bash
 cd bruin
 bruin run nourishmama_pipeline
