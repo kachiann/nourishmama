@@ -126,7 +126,8 @@ source .venv/bin/activate   # Mac/Linux
   pip install -r bruin/nourishmama_pipeline/requirements.txt
 ```
 ### 4. Create Bruin connection
-``` bruin connections add \
+```bash
+  bruin connections add \
   --environment default \
   --name duckdb_local \
   --type duckdb \
