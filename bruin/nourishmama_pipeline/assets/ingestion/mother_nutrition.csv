@@ -29,3 +29,23 @@ food_id,food_name,category,nutrient,value_per_100g,unit,target_group,is_baby_fri
 28,White Bread,Grains,Carbohydrate,49.0,g,both,TRUE,9,11,soft
 29,Peanut Butter,Nuts,Protein,25.0,g,both,TRUE,10,11,smooth_thin_layer
 30,Salt,Seasoning,Sodium,38758,mg,mother,FALSE,12,99,not_for_babies
+31,Plum,Fruits,Fiber,1.4,g,both,TRUE,6,11,pureed
+32,Blueberries,Fruits,Vitamin C,9.7,mg,both,TRUE,6,11,mashed
+33,Peach,Fruits,Vitamin A,326,mcg,both,TRUE,6,11,pureed
+34,Zucchini,Vegetables,Vitamin C,17.9,mg,both,TRUE,6,11,soft
+35,Cauliflower,Vegetables,Vitamin C,48.2,mg,both,TRUE,6,11,soft
+36,Green Beans,Vegetables,Fiber,3.4,g,both,TRUE,6,11,soft
+37,Butternut Squash,Vegetables,Vitamin A,10630,mcg,both,TRUE,6,11,mashed
+38,Millet,Grains,Iron,3.0,mg,both,TRUE,6,11,soft
+39,Barley,Grains,Fiber,17.3,g,both,TRUE,6,11,soft
+40,Cod,Fish,Protein,18.0,g,both,TRUE,8,11,flaked
+41,Turkey,Meat,Protein,29.0,g,both,TRUE,6,11,shredded
+42,Lamb,Meat,Iron,1.6,mg,both,TRUE,8,11,minced
+43,Plain Oat Cereal,Grains,Iron,5.0,mg,both,TRUE,6,11,smooth
+44,Plain Milk,Cow Dairy,Calcium,120,mg,both,TRUE,9,11,sipped_small_amounts
+45,Plain Kefir,Dairy,Probiotics,10.0,both,TRUE,9,11,smooth
+46,Red Bell Pepper,Vegetables,Vitamin C,127.7,mg,both,TRUE,6,11,soft
+47,Pumpkin,Vegetables,Vitamin A,8513,mcg,both,TRUE,6,11,mashed
+48,Apricot,Fruits,Vitamin A,96,mcg,both,TRUE,6,11,pureed
+49,Dates,Fruits,Fiber,6.7,g,both,TRUE,8,11,mashed
+50,Couscous,Grains,Carbohydrate,23.2,g,both,TRUE,6,11,soft
