@@ -1,0 +1,26 @@
+food_id,food_name,category,target_group,is_baby_friendly,texture_stage,min_age_months,max_age_months
+1,Oats,Grains,both,TRUE,soft,6,11
+2,Spinach,Vegetables,both,TRUE,mashed,8,11
+3,Lentils,Legumes,both,TRUE,soft,6,11
+4,Greek Yogurt,Dairy,both,TRUE,smooth,6,11
+5,Salmon,Fish,both,TRUE,flaked,8,11
+6,Broccoli,Vegetables,both,TRUE,soft,6,11
+7,Almonds,Nuts,mother,FALSE,not_safe_whole,12,99
+8,Egg,Eggs,both,TRUE,mashed,6,11
+9,Chickpeas,Legumes,both,TRUE,mashed,8,11
+10,Sardines,Fish,both,TRUE,flaked,9,11
+11,Coffee,Beverages,mother,FALSE,not_for_babies,12,99
+12,Tuna Salad,Fish,mother,FALSE,adult_texture,12,99
+13,Whole Almonds,Nuts,mother,FALSE,choking_risk,12,99
+14,Sweet Potato,Vegetables,both,TRUE,pureed,4,6
+15,Avocado,Fruits,both,TRUE,pureed,4,6
+16,Banana,Fruits,both,TRUE,mashed,6,11
+17,Pear,Fruits,both,TRUE,pureed,4,6
+18,Butternut Squash,Vegetables,both,TRUE,pureed,4,6
+19,Brown Rice,Grains,both,TRUE,soft,8,11
+20,Quinoa,Grains,both,TRUE,soft,8,11
+21,Tofu,Legumes,both,TRUE,soft,8,11
+22,Mango,Fruits,both,TRUE,mashed,8,11
+23,Blueberries,Fruits,both,TRUE,mashed,8,11
+24,Peas,Vegetables,both,TRUE,mashed,6,11
+25,Carrot,Vegetables,both,TRUE,pureed,4,6
