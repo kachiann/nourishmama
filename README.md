@@ -153,7 +153,7 @@ bruin run nourishmama_pipeline
 
 ### 3. Launch the dashboard
 ```bash
-streamlit run nourishmama_pipeline/app.py
+streamlit run nourishmama_pipeline/app1.py
 ```
 
 ## Cloud Quickstart: Run Cloud Pipeline (BigQuery + GCS)
