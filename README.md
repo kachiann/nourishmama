@@ -127,6 +127,8 @@ source .venv/bin/activate   # Mac/Linux
 ```
 ### 4. Create Bruin connection
 ```bash
+cd bruin
+
   bruin connections add \
   --environment default \
   --name duckdb_local \
@@ -135,7 +137,6 @@ source .venv/bin/activate   # Mac/Linux
 ```
 ### 5. Run the pipeline
 ```bash
-cd bruin
 bruin run nourishmama_pipeline
 ```
 
