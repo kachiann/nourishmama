@@ -19,3 +19,6 @@ infra/terraform.tfstate.*
 infra/terraform.tfvars
 
 *.py[cod]
+
+.venv/
+venv/
