@@ -42,8 +42,8 @@ food_id,food_name,category,nutrient,value_per_100g,unit,target_group,is_baby_fri
 41,Turkey,Meat,Protein,29.0,g,both,TRUE,6,11,shredded
 42,Lamb,Meat,Iron,1.6,mg,both,TRUE,8,11,minced
 43,Plain Oat Cereal,Grains,Iron,5.0,mg,both,TRUE,6,11,smooth
-44,Plain Milk,Cow Dairy,Calcium,120,mg,both,TRUE,9,11,sipped_small_amounts
-45,Plain Kefir,Dairy,Probiotics,10.0,both,TRUE,9,11,smooth
+44,Plain Milk,Dairy,Calcium,120,mg,both,TRUE,9,11,sipped_small_amounts
+45,Plain Kefir,Dairy,Probiotics,10.0,mg,both,TRUE,9,11,smooth
 46,Red Bell Pepper,Vegetables,Vitamin C,127.7,mg,both,TRUE,6,11,soft
 47,Pumpkin,Vegetables,Vitamin A,8513,mcg,both,TRUE,6,11,mashed
 48,Apricot,Fruits,Vitamin A,96,mcg,both,TRUE,6,11,pureed
