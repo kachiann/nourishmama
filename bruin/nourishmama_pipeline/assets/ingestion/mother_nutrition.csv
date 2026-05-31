@@ -12,3 +12,20 @@ food_id,food_name,category,nutrient,value_per_100g,unit,target_group,is_baby_fri
 11,Coffee,Beverages,Magnesium,7,mg,mother,FALSE,12,99,not_for_babies
 12,Tuna Salad,Fish,Protein,25.0,g,mother,FALSE,12,99,adult_texture
 13,Whole Almonds,Nuts,Protein,21.0,g,mother,FALSE,12,99,choking_risk
+14,Sweet Potato,Vegetables,Vitamin A,709,mcg,both,TRUE,6,11,mashed
+15,Banana,Fruits,Potassium,358,mg,both,TRUE,6,11,soft
+16,Apple,Fruits,Vitamin C,4.6,mg,both,TRUE,6,11,pureed
+17,Carrot,Vegetables,Beta Carotene,8285,mcg,both,TRUE,6,11,soft
+18,Rice,Grains,Carbohydrate,28.0,g,both,TRUE,6,11,soft
+19,Avocado,Fruits,Healthy Fat,15.0,g,both,TRUE,6,11,mashed
+20,Chicken Breast,Meat,Protein,31.0,g,both,TRUE,6,11,shredded
+21,Beef,Meat,Iron,2.6,mg,both,TRUE,8,11,minced
+22,Pear,Fruits,Fiber,3.1,g,both,TRUE,6,11,pureed
+23,Mango,Fruits,Vitamin C,36.4,mg,both,TRUE,6,11,mashed
+24,Quinoa,Grains,Protein,4.4,g,both,TRUE,6,11,soft
+25,Tofu,Legumes,Calcium,350,mg,both,TRUE,8,11,soft
+26,Cheddar Cheese,Dairy,Calcium,721,mg,both,TRUE,9,11,soft
+27,Honey,Sweeteners,Sugar,82.1,g,mother,FALSE,12,99,not_safe_under_12m
+28,White Bread,Grains,Carbohydrate,49.0,g,both,TRUE,9,11,soft
+29,Peanut Butter,Nuts,Protein,25.0,g,both,TRUE,10,11,smooth_thin_layer
+30,Salt,Seasoning,Sodium,38758,mg,mother,FALSE,12,99,not_for_babies
