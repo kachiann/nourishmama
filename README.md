@@ -123,7 +123,7 @@ source .venv/bin/activate   # Mac/Linux
 
 ### 3. Install Python dependencies
 ```bash
-  pip install -r bruin/nourishmama_gcp/requirements.txt
+  pip install -r bruin/nourishmama_pipeline/requirements.txt
 ```
 
 ### 4. Run the pipeline
