@@ -127,7 +127,16 @@ source .venv/bin/activate   # Mac/Linux
 ```bash
   pip install -r bruin/nourishmama_pipeline/requirements.txt
 ```
-### 4. Create Bruin connection
+
+### 4. Install Bruin CLI
+```
+bash
+curl -LsSf https://getbruin.com/install/cli | sh
+export PATH="$HOME/.local/bin:$PATH"
+bruin --version
+```
+
+### 5. Create Bruin connection
 ```bash
   bruin connections add \
   --environment default \
