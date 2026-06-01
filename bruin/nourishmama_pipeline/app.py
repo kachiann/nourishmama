@@ -3,7 +3,7 @@ from pathlib import Path
 import duckdb
 import streamlit as st
 
-DB_PATH = Path(__file__).resolve().parent / "nourishmama.duckdb"
+DB_PATH = Path("/workspaces/nourishmama/nourishmama.duckdb")
 
 st.set_page_config(
     page_title="NourishMama",
