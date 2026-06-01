@@ -2,7 +2,7 @@ from pathlib import Path
 import duckdb
 import streamlit as st
 
-DB_PATH = Path("/workspaces/nourishmama/nourishmama.duckdb")
+DB_PATH = Path(__file__).resolve().parents[2] / "nourishmama.duckdb"
 
 if not DB_PATH.exists():
     st.error(f"❌ DuckDB not found at: {DB_PATH}")
