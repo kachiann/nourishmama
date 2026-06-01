@@ -103,9 +103,8 @@ USDA FoodData Central / curated nutrition data
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard](bruin/nourishmama_pipeline/image_1.png)
-![Dashboard](bruin/nourishmama_pipeline/image_2.png)
-![Dashboard](bruin/nourishmama_pipeline/image_3.png)
+![Dashboard](image_2.png)
+![Dashboard](image_1.png)
 
 ---
 
