@@ -1,6 +1,6 @@
 Project files are located in `bruin/nourishmama_pipeline` and `bruin/nourishmama_gcp`.
 
-([Live app](https://nourishmama.streamlit.app/))
+**[Live app](https://nourishmama-u.streamlit.app/)**
 # 🌱 NourishMama
 
 **Nutrition insights for first-time mums and baby-friendly foods under 1 year**
