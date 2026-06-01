@@ -94,7 +94,7 @@ USDA FoodData Central / curated nutrition data
 
 ## 🎛️ Interactive Filters
 
-- 👶 Baby age (6–11 months)
+- 👶 Baby age (4–11 months)
 - 👩 Audience:
   - Baby under 1
   - Mother
